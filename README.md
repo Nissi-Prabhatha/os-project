@@ -1,4 +1,4 @@
-# 🧠 Operating System Project – CPU Scheduling Algorithms
+# 🧠 Operating System Project – Advanced CPU Scheduler Simulator
 
 This project demonstrates two advanced CPU scheduling algorithms implemented in C:
 
